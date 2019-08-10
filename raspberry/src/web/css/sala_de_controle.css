@@ -1,0 +1,88 @@
+
+@font-face {
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./../fonts/Righteous-Regular.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./../fonts/Roboto-Regular.ttf') format('truetype')
+}
+
+div#div_principal {
+    margin: 100px auto auto auto;
+    width: 550px;
+    height: 500px;
+    border-color: white;
+    border-radius: 25px;
+    text-align: center;
+}
+
+img#imagem_jupter {
+    height: 125px;
+    width: 125px;
+    margin-bottom: 10px;
+}
+
+div.div-titulo {
+    font-family: Righteous;
+    font-size: 28px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+div#input-titulo {
+    font-family: Roboto;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+input#input-tempo {
+    font-family: Roboto;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 10px;
+    width: 200px;
+    color: white;
+    background-color: transparent;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+input#input-tempo:focus {
+    outline: none;
+}
+
+div.divs-centralizadas {
+    vertical-align: middle;
+}
+
+div.div-relogio {
+    margin: 20px 0 20px 0;
+}
+
+div.div-input {
+    margin: 20px;
+    color: white;
+}
+
+button#botao {
+    outline: none;
+    font-family: Righteous;
+    font-size: 16px;
+    letter-spacing: 1.5px;
+    color: white;
+    background-color: transparent;
+    padding: 10px 22px 10px 22px;
+    border-radius: 5px;
+    border-color: transparent;
+    cursor: pointer;
+}

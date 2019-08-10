@@ -1,0 +1,5 @@
+# Node modules path
+node_modules
+
+# music path
+src/music/*
