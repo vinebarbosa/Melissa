@@ -1,0 +1,26 @@
+{
+  "name": "Melissa",
+  "version": "1.0.0",
+  "description": "Despertador inteligente",
+  "main": "index.js",
+  "repository": "git+https://github.com/ViniciosSilva811/Melissa.git",
+  "author": "Vinícios Silva",
+  "homepage": "https://github.com/ViniciosSilva811/Melissa#readme",
+  "bugs": {
+    "url": "https://github.com/ViniciosSilva811/Melissa/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "async-shelljs": "^0.1.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.0",
+    "nodemon": "^1.19.1"
+  }
+}

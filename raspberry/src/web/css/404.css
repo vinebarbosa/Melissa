@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./../fonts/Righteous-Regular.ttf') format('truetype')
+}
+
+div#centro {
+    font-family: Righteous;
+    font-size: 200px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    width: 100%;
+    height: 100%;
+    margin: 100px auto auto auto;
+}
