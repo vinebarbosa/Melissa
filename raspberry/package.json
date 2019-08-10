@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Despertador inteligente",
   "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/servidor_cremoso.js"
+  },
   "repository": "git+https://github.com/ViniciosSilva811/Melissa.git",
   "author": "Vinícios Silva",
   "homepage": "https://github.com/ViniciosSilva811/Melissa#readme",

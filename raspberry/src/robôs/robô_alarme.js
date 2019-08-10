@@ -6,6 +6,6 @@ const robôs = {
 
 robôs.fala.falar('Acorde, meu gostosão');
 
-robôs.música.tocar_musica('Happier.mp3');
+robôs.música.tocar_musica('dance da galinha.mp3');
 
 console.log('> [servidor-alarme] ^⁻^ All Right!');
